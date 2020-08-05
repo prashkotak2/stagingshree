@@ -1,0 +1,10 @@
+2020-07-22T23:16:25+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') in C:\wamp644\www\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-22T23:17:22+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') in C:\wamp644\www\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-22T23:33:20+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') in C:\wamp644\www\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-22T23:33:33+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') in C:\wamp644\www\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-22T23:33:45+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') in C:\wamp644\www\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
